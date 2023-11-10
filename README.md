@@ -1,9 +1,5 @@
 # MS-Excel-project-ABC-Bank-Report
 
-This is my first attempt on conducting analysis on sample data and providing my insights using MS Excel. 
-It has been a very enriching experience where I have tried to implement something related to what I have been learning. 
-I am open to comments/suggestions which will help me to improve as I move further in this learning journey.
-
 The source of my sample dataset is kaggle.com and the data is related to the credit card transactions belonging to multiple people for a period of January 2023 to October 2023. 
 Below is the link to access the dataset:
 https://www.kaggle.com/datasets/rajatsurana979/comprehensive-credit-card-transactions-dataset
