@@ -1,4 +1,4 @@
-# MS-Excel-project-for-data-analysis---ABC-Bank-Report
+# MS-Excel-project-ABC-Bank-Report
 
 This is my first attempt on conducting analysis on sample data and providing my insights using MS Excel. 
 It has been a very enriching experience where I have tried to implement something related to what I have been learning. 
